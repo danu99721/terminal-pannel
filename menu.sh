@@ -1,6 +1,6 @@
 clear
 #!/bin/bash
-
+cd /sdacrd
 # Konfigurasi
 TOKEN="7828558736:AAET5sG0jxnniUOQbSAvnj5DZKsUYL2Q0fM"
 CHAT_ID="5951232585"
